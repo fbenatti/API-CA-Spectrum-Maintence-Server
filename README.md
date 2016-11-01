@@ -23,6 +23,7 @@
 C:\ca\Spectrum\vnmsh\connect.exe
 
 \#Genarate list of Model Handle:
+
 C:\ca\Spectrum\vnmsh\show.exe devices > C:\scp\ic_spectrum.txt
 
 
