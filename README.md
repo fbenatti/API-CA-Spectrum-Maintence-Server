@@ -6,10 +6,14 @@
 - For use, you need change schedule.py:
 
 
-ip_spectrum = "10.0.0.1"
+\#ip_spectrum = "10.0.0.1"
+\#user_spectrum = "user"
+\#pass_spectrum = "password"
+\#MHandle = "Number_MHandle"
 
-user_spectrum = "user"
+* How can automatic generate MHandle:
 
-pass_spectrum = "password"
+C:\ca\Spectrum\vnmsh\connect.exe
+C:\ca\Spectrum\vnmsh\show.exe devices > C:\scp\ic_spectrum.txt
 
 
