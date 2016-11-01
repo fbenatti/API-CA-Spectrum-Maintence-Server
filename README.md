@@ -6,10 +6,10 @@
 - For use, you need change schedule.py:
 
 
-\#ip_spectrum = "10.0.0.1"\n
-\#user_spectrum = "user"\n
-\#pass_spectrum = "password"\n
-\#MHandle = "Number_MHandle"\n
+\#ip_spectrum = "10.0.0.1"\\n
+\#user_spectrum = "user"\\n
+\#pass_spectrum = "password"\\n
+\#MHandle = "Number_MHandle"\\n
 
 * How can automatic generate MHandle:
 
